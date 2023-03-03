@@ -1,6 +1,6 @@
 # ess_identity_v2
 
-<h1>ess_identity_v2</h1>
+<h1>ess_identity_v2 for essentialmode</h1>
 
 **(© 2022 GitHub) CopyRight of this script is for one shop community**
 
